@@ -1,0 +1,36 @@
+        header {
+            font-size: 40pt;
+            text-align:center;
+            font-weight: bold;
+        }
+        div {
+            width: 677px;
+            background-color: #E6DCD3;
+            margin-right: auto;
+            margin-left: auto;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 5px;
+            color: #57463E;
+            
+        }
+        body {
+            font-family: "Cambria";
+            font-size: 11pt;
+            text-align: left;
+            background-color: #DCC2B1;
+        }
+        h1,h2,footer {
+            text-align: center;
+        }
+        footer {
+            font-size: 8pt;
+            font-style: italic;
+        }
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        td {
+            padding-left: 10px;
+        }
