@@ -1,0 +1,13 @@
+Web App Features
+- Forum post per season
+- Featured discussion for a show
+- Profile per user
+- Friend list
+- Watch list
+- Privacy settings
+- Activity Feed
+- Auto created post from user submitted content
+- Commenting on different user post/shows
+- Quizzes based on individual episodes creates from user submissions 
+- QA for user submitted content using moderators
+- Moderators for QA
