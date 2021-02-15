@@ -3,14 +3,13 @@ Spring 2021
 Group 5
 Milestone 1 - Project Proposal
 
-Project: [Project Name]
+Project/Team Name: Chatflix
 [High-level description]
 
-Team: [Team Name]
 Team Members:
 Verneshia Persaud vpersaud@fau.edu Scrum Master, Front-end Dev
 Maksym Mostovy mmostovy2019@fau.edu Product Owner, Lead Back-end Dev
-Viviana Joubert vjoubert2019@fau.edu  Back-end Dev
+Viviana Joubert vjoubert2019@fau.edu  Front-end Dev
 Monica Silvestri  msilvestri2018@fau.edu  GitHub Master, Lead Back-end Dev 
 Jason Abdool  jabdool2016@fau.edu Back-end Dev
 
@@ -52,7 +51,15 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
 *************************************************************************************************
       NONFUNCTIONAL REQUIREMENTS:
       
-      [Add text here]
+            The system’s home page supporting 3000 users per hour must provide a response time of 3 seconds or less.
+            Interactions with the navigation bar should take one second or less.
+            The system must support the following browsers:
+                  Chrome
+                  Safari
+                  Firefox
+            The system must be available 91% during the month.
+            Latest standards and designs must be used for the system’s base architecture. Common coding styles must be used.
+
 *************************************************************************************************
 
 
