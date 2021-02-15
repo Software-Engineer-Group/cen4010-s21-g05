@@ -4,7 +4,7 @@ Group 5
 Milestone 1 - Project Proposal
 
 Project/Team Name: Chatflix
-[High-level description]
+A community where TV enthusiasts can discuss their favorite and not-so-favorite highlights of the shows they are watching.
 
 Team Members:
 Verneshia Persaud vpersaud@fau.edu Scrum Master, Front-end Dev
@@ -51,14 +51,24 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
 *************************************************************************************************
       NONFUNCTIONAL REQUIREMENTS:
       
-            The system’s home page supporting 3000 users per hour must provide a response time of 3 seconds or less.
-            Interactions with the navigation bar should take one second or less.
-            The system must support the following browsers:
-                  Chrome
-                  Safari
-                  Firefox
-            The system must be available 91% during the month.
-            Latest standards and designs must be used for the system’s base architecture. Common coding styles must be used.
+•	The system’s home page supporting 3000 users per hour must provide a response time of 3 seconds or less.
+•	Interactions with the navigation bar should take one second or less.
+•	Searching the catalog must take one second or less.
+•	The system must be able to process 1000 queries per minute.
+•	The system must support the following browsers:
+      o	Chrome
+      o	Safari
+      o	Firefox
+•	The system must be available 91% during the month.
+•	Latest standards and designs must be used for the system’s base architecture. Common coding styles must be used.
+•	The system must implement modular programming.
+•	The system must operate on different screen sizes.
+•	The system must use encryption to store data securely.
+•	Users must be logged in to see activity feed [and other user’s profiles?] and make posts.
+•	The system must store data effectively.
+•	The system must backup data every hour. Backup must take one minute or less.
+•	System must have administrator roles to monitor user content. 
+
 
 *************************************************************************************************
 
@@ -75,4 +85,5 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
       
       M1 Working Document Created 02FEB2021 Monica
       Added Team info: Names, roles, emails 06FEB2021 Verneshia
+      Added non-functional requirements, project name, short description 15FEB2021 Verneshia
 *************************************************************************************************
