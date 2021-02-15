@@ -10,7 +10,7 @@ Team Members:
 Verneshia Persaud vpersaud@fau.edu Scrum Master, Front-end Dev
 Maksym Mostovy mmostovy2019@fau.edu Product Owner, Lead Back-end Dev
 Viviana Joubert vjoubert2019@fau.edu  Front-end Dev
-Monica Silvestri  msilvestri2018@fau.edu  GitHub Master, Lead Back-end Dev 
+Monica Silvestri  msilvestri2018@fau.edu  GitHub Master, Lead Front-end Dev 
 Jason Abdool  jabdool2016@fau.edu Back-end Dev
 
 *************************************************************************************************
