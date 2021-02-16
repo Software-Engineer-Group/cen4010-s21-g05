@@ -56,6 +56,17 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
 
 -     User – a person who can create discussion posts and manage their individual profile
 
+-     Verified user – an entity that passes security measures and identity verification to ensure validity (e.g. movie/ show producers)
+
+-     Subscribe – the act of ‘following’ a verified user to see all future posts on user’s activity feed from that source
+
+-     Subscribers - viewers who've indicated they want to see more of your content
+
+-     Watch-list – a list of past shows/ movies the user had watched
+
+-     Watch-party – a feature that allows virtual gatherings for the purpose of watching a specific movie or show together, regardless of user’s location
+
+
 *************************************************************************************************
 
 
