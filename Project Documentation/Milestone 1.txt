@@ -34,7 +34,28 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
 *************************************************************************************************
       DATA DEFINITION:
       
-      [Add text here]
+-     Availability - the amount of time that the public has access to the website when maintenance is not being performed
+
+-     Avatar - a figure or icon that can be selected and personalized to represent a person
+
+-     Maintainabilit - the process of updating the website to prevent any future errors
+
+-     Moderator - a person who monitors the online discussions
+
+-     Performance – the capabilities of each action performed on the website
+
+-     Reliability – the amount of time that the website is available to the public without any errors
+
+-     Response – the result of each action performed on the website
+
+-     Scalability – the process of allowing the website to accommodate a sudden increase in users 
+
+-     Security – the process of protecting a user’s information and identity when using the website
+
+-     Usability – the criteria that determines how easy the website is to use for a person
+
+-     User – a person who can create discussion posts and manage their individual profile
+
 *************************************************************************************************
 
 
