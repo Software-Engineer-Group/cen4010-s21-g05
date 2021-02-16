@@ -14,8 +14,12 @@ Monica Silvestri  msilvestri2018@fau.edu  GitHub Master, Lead Front-end Dev
 Jason Abdool  jabdool2016@fau.edu Back-end Dev
 
 *************************************************************************************************
-      EXECUTIVE SUMMARY
+      EXECUTIVE SUMMARY:
       
+      Suffering from a ‘Netflix hangover’? We know post-binge-watching blues is real, especially in the modern age of quarantine. After investing so much time into a captivating show and immersing into a reality outside of your own, a wave of emptiness washes over when you realize you had just finished watching the final episode. Filled with so many questions, comments, and concerns about the show and an urge to further discuss, there must be an outlet to fill this new-found void. We know its all you can think about for days post-binge, hence our development of Chatflix! 
+
+      Chatflix will be a social-networking site that will make it easy for you to connect and share with virtually anyone. The main concept is to build an online community of avid bingers and movie enthusiasts alike to openly chat about any show or movie. Not only will be this be a ‘fan forum’, but users will be able to create their own customizable profile, add friends, subscribe to their favorite show or movie’s page, stay up to date with an activity feed, leave reviews, keep track with a watch-list queue, interact in a watch party and more! The purpose is to build a broad social network with emphasis on creating a sense of connection and interaction amongst fellow fans of the film entertainment industry.
+  
       
 *************************************************************************************************
 
