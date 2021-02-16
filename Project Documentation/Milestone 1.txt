@@ -186,5 +186,7 @@ about a show or topic and ability to be notified through email for new episodes.
 *************************************************************************************************
       HIGH-LEVEL SYSTEM ARCHITECTURE:
       
-      The system will use PHP and SQL for back-end framework, and HTML and CSS with a Bootstrap for front-end framework. An unofficial Netflix API will be used to acquire Netflix data. 
+      The system will use PHP, Javascript, Python, SQL for back-end framework, and HTML and CSS with a Bootstrap for front-end framework.
+      An unofficial Netflix API will be used to acquire Netflix data. Possibly using a Python web scraper library and HTML parser for data 
+      regarding Netflix because of unreliability of Netflix API.
 *************************************************************************************************
