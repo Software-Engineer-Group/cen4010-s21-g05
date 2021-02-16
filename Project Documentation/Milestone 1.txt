@@ -37,7 +37,12 @@ User Watchlists	                                                                
 User Activity (I.E. online)	                                                                 || Movie Summaries 
  
  
-      Within the social media market there is little room for change when considering overall features, although a focus on target audience is what makes and breaks a competitive social media platform. For example, Facebook competitor Instagram have similar concepts of user posts, profiles, and user media feeds but the difference is seen by the site’s userbase. Facebook hosts many user, typically older than thirty and was seen as a replacement for Myspace, while Instagram is a social media setting where many generation Z user flock to; fleeing from Facebook. With the same principle of focusing on an audience rather then features, ChatFlix aims to replace Media giants like IMBD and Rotten Tomatoes. By focusing on pop culture and simplistic modern design, Chatflix can appeal to many teens and young adults: a platforms that promotes internet pop culture with a focus on movies and shows. 
+      Within the social media market there is little room for change when considering overall features, although a focus on target audience is what makes and breaks a
+competitive social media platform. For example, Facebook competitor Instagram have similar concepts of user posts, profiles, and user media feeds but the difference is seen by
+the site’s userbase. Facebook hosts many user, typically older than thirty and was seen as a replacement for Myspace, while Instagram is a social media setting where many
+generation Z user flock to; fleeing from Facebook. With the same principle of focusing on an audience rather then features, ChatFlix aims to replace Media giants like IMBD and
+Rotten Tomatoes. By focusing on pop culture and simplistic modern design, Chatflix can appeal to many teens and young adults: a platforms that promotes internet pop culture with
+a focus on movies and shows. 
       
 
 
@@ -96,9 +101,18 @@ User Activity (I.E. online)	                                                    
 *************************************************************************************************
       OVERVIEW, SCENARIOS, REQUIREMENTS
       
-      Jan a twenty-four year old college student just finished binge watching all two season of “The Mandalorian”, wanting to connect with his peer during the isolation of COVID he opens Chatflix on his phone web browser: Safari. After navigating to his profile he adds season one and two to his watch list completed list and chicks on the title to navigate to related discussions of his show. Posting an image of a meme with the character in the season finale, captioned with a question to everyone in the community for their opinions related to the ending. After receiving many likes on his post he gets a reply from StarWarsFan76, <spoiler> “I’m happy my favorite character didn’t die in the end!”<spoiler>. This use case demonstrates the ability for the user to access a customizable profile, adding watched films to their watch lists, interacting with the community of a film or show, ability to comment on other user’s post, and spoiler tags to hide potential spoilers for others. 
+      Jan a twenty-four year old college student just finished binge watching all two season of “The Mandalorian”, wanting to connect with his peer during the isolation of COVID
+he opens Chatflix on his phone web browser: Safari. After navigating to his profile he adds season one and two to his watch list completed list and chicks on the title to 
+navigate to related discussions of his show. Posting an image of a meme with the character in the season finale, captioned with a question to everyone in the community for their
+opinions related to the ending. After receiving many likes on his post he gets a reply from StarWarsFan76, <spoiler> “I’m happy my favorite character didn’t die in the 
+end!”<spoiler>. This use case demonstrates the ability for the user to access a customizable profile, adding watched films to their watch lists, interacting with the community
+of a film or show, ability to comment on other user’s post, and spoiler tags to hide potential spoilers for others. 
 	
-      Marry a sixteen year old high school student loves watching GOT(Game of Thrones) and knows everything about the show. She took every quiz possible on the community page and got every question right, rewarded with profile avatar, background themes, and custom emoji from the show. Her homepage is flooded with news related to GOT after subscribing to the community news tab. She’s anxiously waiting for the next episode, even subscribed to notifications for when the next episode is airing. This use case shows an overview of planned user profile customization and interactive quizzes that users can partake in. Additionally, it illustrates the capability of subscribing to news feed for related content about a show or topic and ability to be notified through email for new episodes. 
+      Marry a sixteen year old high school student loves watching GOT(Game of Thrones) and knows everything about the show. She took every quiz possible on the community page 
+and got every question right, rewarded with profile avatar, background themes, and custom emoji from the show. Her homepage is flooded with news related to GOT after subscribing
+to the community news tab. She’s anxiously waiting for the next episode, even subscribed to notifications for when the next episode is airing. This use case shows an overview of
+planned user profile customization and interactive quizzes that users can partake in. Additionally, it illustrates the capability of subscribing to news feed for related content
+about a show or topic and ability to be notified through email for new episodes. 
 
 *************************************************************************************************
 
