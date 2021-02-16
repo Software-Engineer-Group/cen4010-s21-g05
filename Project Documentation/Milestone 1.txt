@@ -44,7 +44,41 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
 *************************************************************************************************
       HIGH-LEVEL FUNCTIONAL REQUIREMENTS REQUIREMENTS:
       
-      [Add text here]
+      1.	Major Functions of Discussion Forum:
+1.1	Main Page:
+•	Enable viewers to see discussion in date order (Descending order, starting from most recent to previous).
+•	 Each forum thread contains:
+-	The title
+-	Name and picture of user that started it.
+-	Number of replies/comments
+-	Date of last post, and the name of user who made last post.
+-	Discussion that is trending.
+•	Allow logged in user to create threads.
+-	Tags to mark what content is about (E.g. spoilers)
+-	Goes through an admin/moderator to approve of post.
+
+1.2	Discussion Page:
+•	Enables users to view the current show/movie in the thread chosen.
+-	Logged in users can input comments to reply to thread.
+-	Logged in users can rate the discussion (E.g. likes/dislike rating)
+•	Admin/Moderators generate quiz in thread.
+-	Logged in users can answer quiz about an episode of that thread. 
+1.3	Search Bar:
+•	User can search a specific movie/show, get description of it, ratings, and any discussion involved with it.
+
+2.	Major Function of Login/Registration System:
+2.1	Authenticate and Login user to the application.
+•	User has to agree to Terms & Conditions when account is created.
+2.2 Profile page:
+•	User can edit their profile with avatar/icons, change profile background color.
+•	User can view activity feed of show/movies they watched and their friends.
+•	Add friends and see if they were active watching a show/movie recently.
+•	User can leave comments on page (if public)
+
+2.2	Privacy Setting:
+•	User can make their profile public or private.
+-	Have option to show friends or be completely hidden.
+
 *************************************************************************************************
 
 
