@@ -146,14 +146,5 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
 *************************************************************************************************
       HIGH-LEVEL SYSTEM ARCHITECTURE:
       
-      [Add text here]
-*************************************************************************************************
-
-
-*************************************************************************************************
-      REVISIONS:
-      
-      M1 Working Document Created 02FEB2021 Monica
-      Added Team info: Names, roles, emails 06FEB2021 Verneshia
-      Added non-functional requirements, project name, short description 15FEB2021 Verneshia
+      The system will use PHP and SQL for back-end framework, and HTML and CSS with a Bootstrap for front-end framework. An unofficial Netflix API will be used to acquire Netflix data. 
 *************************************************************************************************
