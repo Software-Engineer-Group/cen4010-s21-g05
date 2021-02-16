@@ -29,11 +29,11 @@ Jason Abdool  jabdool2016@fau.edu Back-end Dev
       
 ChatFlix Planned Features	                                                                 || Major Competitors Key Features
 
-Highly Customizable Profile Page 	                                                           || Static Profile Page 
-Discussion Page for related topics (bigger focus on pop culture like communities and fandoms)  || Discussion Page for related topics
+Highly Customizable Profile Page 	                                                         || Static Profile Page 
+Discussion Page for related topics (bigger focus on pop culture like communities and fandoms)    || Discussion Page for related topics
 Quizzes/Interactive Content	                                                                 || Quizzes/Interactive Content
-News about New Releases                                                                        || News about New Releases
-User Watchlists	                                                                             || User Watchlists
+News about New Releases                                                                          || News about New Releases
+User Watchlists	                                                                                 || User Watchlists
 User Activity (I.E. online)	                                                                 || Movie Summaries 
  
  
@@ -50,6 +50,16 @@ User Activity (I.E. online)	                                                    
 -     Availability - the amount of time that the public has access to the website when maintenance is not being performed
 
 -     Avatar - a figure or icon that can be selected and personalized to represent a person
+
+-     Background Theme - Collection of images that decorate an user profile page
+
+-     <spoiler> - a feature preventing text or a post to be shown unless an user hover it
+
+-     Media Quiz - interactive content that test users film knowledge 
+
+-     Community Page - index of user post relating to film media
+
+-     Subscribing - a feature allowing user to receive post from communities on their homepage
 
 -     Maintainabilit - the process of updating the website to prevent any future errors
 
