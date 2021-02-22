@@ -1,0 +1,58 @@
+****************************************************************************
+					CHATFLIX GUI MOCKUP WORKING OUTLINE
+****************************************************************************
+
+					Please add changes where needed! :)
+
+----------------------------------------------------------------------------
+Landing/Login Page:	-Logo
+			-Username field
+			-Password field
+			-Log in button
+			-Register button
+
+----------------------------------------------------------------------------
+Registration:		-Logo
+			-Username field
+			-Password field
+			-Authenticate
+
+----------------------------------------------------------------------------
+Navigation bar:		-Featured on all pages but Landing, Login, 
+			  and Registration	
+			-Logo, linked to Home
+			-Profile icon, linked to Profile
+			-Search Bar, linked to Search Results
+
+----------------------------------------------------------------------------
+Home Page:		-Navgiation bar
+			-Activity feed 			
+
+----------------------------------------------------------------------------
+Profile Page:		-Navgiation bar
+			-Avatar
+			-Username
+			-Name
+			-Short bio
+			-Watch-list
+
+----------------------------------------------------------------------------
+Search Results:		-Navgiation bar
+			-Results [by category? alphabetical order?]:
+				>Title, linked to Series
+				>Brief description
+	
+----------------------------------------------------------------------------
+Series Page:		-Navgiation bar
+			-Title
+			-Embedded image or video, linked to a trailer
+			-Plot overview
+			-Cast
+			-Discussions, linked to Discussion
+			-Add to watch-list
+
+----------------------------------------------------------------------------
+Discussion Page:	-Navigation bar
+			
+	
+			
