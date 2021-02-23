@@ -6,13 +6,14 @@
 
 ----------------------------------------------------------------------------
 Landing/Login Page:	-Logo
-			-Username field
+			-Email or Username field
 			-Password field
 			-Log in button
 			-Register button
 
 ----------------------------------------------------------------------------
 Registration:		-Logo
+			-Email field
 			-Username field
 			-Password field
 			-Authenticate
@@ -26,8 +27,8 @@ Navigation bar:		-Featured on all pages but Landing, Login,
 
 ----------------------------------------------------------------------------
 Home Page:		-Navgiation bar
-			-Activity feed 			
-
+			-Activity feed	
+			
 ----------------------------------------------------------------------------
 Profile Page:		-Navgiation bar
 			-Avatar
@@ -38,7 +39,7 @@ Profile Page:		-Navgiation bar
 
 ----------------------------------------------------------------------------
 Search Results:		-Navgiation bar
-			-Results [by category? alphabetical order?]:
+			-Results:
 				>Title, linked to Series
 				>Brief description
 	
@@ -48,11 +49,14 @@ Series Page:		-Navgiation bar
 			-Embedded image or video, linked to a trailer
 			-Plot overview
 			-Cast
-			-Discussions, linked to Discussion
+			-Related discussions, each linked to a Discussion page
 			-Add to watch-list
 
 ----------------------------------------------------------------------------
 Discussion Page:	-Navigation bar
-			
-	
-			
+			-Post
+			-Replies to post
+			-Like/Dislike button
+			-Add Comment button
+			-Text box
+			-Post button			
