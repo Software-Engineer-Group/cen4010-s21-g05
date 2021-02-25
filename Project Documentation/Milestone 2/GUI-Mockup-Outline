@@ -19,19 +19,20 @@ Registration:		-Logo
 			-Authenticate
 
 ----------------------------------------------------------------------------
-Terms and Conditions:
+Terms and Conditions:	-Logo
 
 
 
 ----------------------------------------------------------------------------
-Forgot Username:
-
-
+Forgot Username/Pasword Page:
+			-Logo
+			-Email field
+			-Send Login Link button
 
 ----------------------------------------------------------------------------
-Forgot Password Page:
-
-
+Reset Password Page:	-Logo
+			-2 password fields
+			-Reset Password button
 
 ----------------------------------------------------------------------------
 Navigation bar:		-Featured on all pages but Landing, Login, 
