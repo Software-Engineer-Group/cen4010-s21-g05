@@ -58,10 +58,9 @@ Profile Page:		-Navgiation bar
 			-Name
 			-Short bio
 			-Watch-list
-			-Customize
 			-Settings
 			-Friends list
-			-Edit mode (seperate frame)
+			-Customize (Edit mode) <--create a seperate frame in Balsamiq for edit mode
 				>Change Avatar
 				>Change Theme
 				>Privacy settings
@@ -85,16 +84,20 @@ Series Page:		-Navgiation bar
 			-Plot overview
 			-Ratings and reviews
 			-Cast
-			-Related discussions (threads), each linked to a Discussion page
-				>for a TV series: have seasons listed, discussions below (drop-down)
+			-Top 3 or 4 discussions, linked to a Subthread page
 			-Add to watch-list
 
 ----------------------------------------------------------------------------
-Discussion Page:	-Navigation bar
-			-Thread
-			-Post
-			-Replies to post
-			-Like/Dislike button
-			-Add Comment button
-			-Text box
-			-Post button			
+Discussions Page:	-Navigation bar
+			-Threads/posts, in chronological order; each linked to a Subthread page
+				>if  TV series, threads are organized by season
+			-Create a new post
+				>if a TV series, user must select which season they are posting about from a dropdown list
+			-View Comments button, linked to Subthread page
+		
+----------------------------------------------------------------------------
+Subthread Page:		-Navigation bar
+			-Comments/Replies
+			-Like/Dislike post or comments
+			-Leave a comment
+			-Post comment
