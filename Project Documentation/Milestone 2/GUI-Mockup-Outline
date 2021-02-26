@@ -44,6 +44,12 @@ Navigation bar:		-Featured on all pages but Landing, Login,
 ----------------------------------------------------------------------------
 Home Page:		-Navgiation bar
 			-Activity feed	
+				>Posts from subscribed Discussions
+				>Create post:
+					>>Select discussion
+					>>Add contents
+					>>Mark as spoiler
+					>>Post
 			
 ----------------------------------------------------------------------------
 Profile Page:		-Navgiation bar
