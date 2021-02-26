@@ -58,21 +58,21 @@ Profile Page:		-Navgiation bar
 			-Name
 			-Short bio
 			-Watch-list
+			-Customize
+			-Settings
+			-Friends list
+			-Edit mode (seperate frame)
+				>Change Avatar
+				>Change Theme
+				>Privacy settings
 			-Logout
 
 ----------------------------------------------------------------------------
-Privacy Settings:
+Friends:		-Nav bar
+			-Friends of the user (each friend linked to their Profile page)
 
 
-
-
-----------------------------------------------------------------------------
-Customize Profile:
-
-
-
-
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 Search Results:		-Navgiation bar
 			-Results:
 				>Title, linked to Series
@@ -83,12 +83,15 @@ Series Page:		-Navgiation bar
 			-Title
 			-Embedded image or video, linked to a trailer
 			-Plot overview
+			-Ratings and reviews
 			-Cast
-			-Related discussions, each linked to a Discussion page
+			-Related discussions (threads), each linked to a Discussion page
+				>for a TV series: have seasons listed, discussions below (drop-down)
 			-Add to watch-list
 
 ----------------------------------------------------------------------------
 Discussion Page:	-Navigation bar
+			-Thread
 			-Post
 			-Replies to post
 			-Like/Dislike button
