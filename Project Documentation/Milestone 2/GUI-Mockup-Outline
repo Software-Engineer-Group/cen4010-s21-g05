@@ -20,7 +20,7 @@ Registration:		-Logo
 
 ----------------------------------------------------------------------------
 Terms and Conditions:	-Logo
-
+			-Terms and conditions (using a template)
 
 
 ----------------------------------------------------------------------------
@@ -43,6 +43,7 @@ Navigation bar:		-Featured on all pages but Landing, Login,
 
 ----------------------------------------------------------------------------
 Home Page:		-Navgiation bar
+			-Create post, redirects to Creat a Post page
 			-Activity feed	
 				>Posts from subscribed Discussions
 				>Create post:
@@ -51,6 +52,16 @@ Home Page:		-Navgiation bar
 					>>Mark as spoiler
 					>>Post
 			
+----------------------------------------------------------------------------
+Creat a Post:		-Navgiation bar
+			-Drop-down of Discussions user is subscribed to
+				>if creating a post from a Discussion, hard code to Discussion name
+					>>if TV series, use a drop-down to specify a season
+			-Title field
+			-Text box for post contents
+			-Spoiler button
+			-Post button
+		
 ----------------------------------------------------------------------------
 Profile Page:		-Navgiation bar
 			-Avatar
@@ -89,14 +100,15 @@ Series Page:		-Navgiation bar
 
 ----------------------------------------------------------------------------
 Discussions Page:	-Navigation bar
-			-Threads/posts, in chronological order; each linked to a Subthread page
+			-Subscribe to this feed button
+			-Create a post, redirects to Creat a Post page
+			-Posts, in chronological order; each linked to a Discussion Post page
 				>if  TV series, threads are organized by season
-			-Create a new post
-				>if a TV series, user must select which season they are posting about from a dropdown list
-			-View Comments button, linked to Subthread page
-		
+			-View Comments button, linked to Discussion Post page
+			
 ----------------------------------------------------------------------------
-Subthread Page:		-Navigation bar
+Discussion Post Page:	-Navigation bar
+			-Link to post's Discussions Page
 			-Comments/Replies
 			-Like/Dislike post or comments
 			-Leave a comment
