@@ -99,8 +99,9 @@ Series Page:		-Navgiation bar
 			-Add to watch-list
 
 ----------------------------------------------------------------------------
-Discussions Page:	-Navigation bar
-			-Subscribe to this feed button
+Discussion Page:	-Navigation bar
+			-Discussion group name
+			-Subscribe to this group button
 			-Create a post, redirects to Creat a Post page
 			-Posts, in chronological order; each linked to a Discussion Post page
 				-Post creator name and avatar
