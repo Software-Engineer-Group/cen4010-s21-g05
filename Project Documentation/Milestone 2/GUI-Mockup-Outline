@@ -66,6 +66,7 @@ Creat a Post:		-Navgiation bar
 Profile Page:		-Navgiation bar
 			-Avatar
 			-Username
+			-Add friend (if other user's Profile page)
 			-Name
 			-Short bio
 			-Watch-list
@@ -95,12 +96,12 @@ Series Page:		-Navgiation bar
 			-Plot overview
 			-Ratings and reviews
 			-Cast
-			-Top 3 or 4 discussions, linked to a Subthread page
+			-Top 3 or 4 discussions, linked to a Discussion Post
 			-Add to watch-list
 
 ----------------------------------------------------------------------------
-Discussion Page:	-Navigation bar
-			-Discussion group name
+Discussions Page:	-Navigation bar
+			-Discussions Page name (Movie or TV Series Title, linked to Series page)
 			-Subscribe to this group button
 			-Create a post, redirects to Creat a Post page
 			-Posts, in chronological order; each linked to a Discussion Post page
