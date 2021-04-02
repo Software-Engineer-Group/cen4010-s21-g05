@@ -1,0 +1,13 @@
+Go to this link: https://tsg.eng.fau.edu/servers/lamp-cse-fau-edu/accessing-mysql/
+
+Follow the steps under "Connecting to MySQL using phpMyAdmin" 
+
+For the prompt, enter *YOUR* FAU username and password.
+
+In the phpMyAdmin GUI, use the following credentials:
+
+username: cen4010_s21_g05
+password: sure97decimal24
+
+
+The steps for imorting SQL tables can be found in Monica's 'How to Access Website' document.
