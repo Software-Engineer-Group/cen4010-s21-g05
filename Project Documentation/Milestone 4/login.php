@@ -21,7 +21,7 @@ session_start();
 				{
 					while($user_data=mysqli_fetch_assoc($result))	//get one row
 					{
-						echo $user_data['password'];
+						//echo $user_data['password'];
 						if(password_verify($password,$user_data['password']))	//verify password from row
 						{
 							$_SESSION['user_id'] = $user_data['user_id'];
