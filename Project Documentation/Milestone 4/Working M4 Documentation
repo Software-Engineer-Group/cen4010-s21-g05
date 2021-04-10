@@ -25,8 +25,11 @@ Code Review:
  
 **********************************************
 Best Practices for Security:
-
-
+Major asset to protect is the user's password.
+Password shall be encrypted using PHP brcypt algorithm provided by the password_hash() function. The bcrypt algorithm is a one-way hashing algorithm.
+Data validation:
+  -Seacrh data
+  -Discussion post data
 **********************************************
 Non-Function Requirements Checklist:
 
