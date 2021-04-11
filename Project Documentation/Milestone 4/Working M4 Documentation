@@ -106,7 +106,21 @@ Test Objectives:
 •	Validate data input.
 •	Detect functional defects in the web application.
 
+Required Hardware: 
+Computer
+Mobile phone
+Modem
+
+Software Requirements:
+Google Chrome for PC and Safari for iOS web browsers shall be used to verify frontend UI. Testers shall utilize phpMyAdmim to verify data storage.
+
+Environment Requirements:
+Backend developers and QA testers shall be involved in alpha testing. Testing environment shall be deployed on a local web server. 
+
 Note: QA environment shall [tentatively] exclude verification of CSS integration.
+
+Bug Tracking Tools:
+Google Docs shall be used to document defect management.
 
 **********************************************
 Code Review:
