@@ -101,7 +101,11 @@ Very low quality
 **********************************************
 QA Test Plan:
 
- 
+Test Objectives:
+•	Verify functionality of discussion board feature.
+•	Validate data input.
+•	Detect functional or cosmetic defects in the web application.
+
 **********************************************
 Code Review:
 [add code to repo as a separate file]
