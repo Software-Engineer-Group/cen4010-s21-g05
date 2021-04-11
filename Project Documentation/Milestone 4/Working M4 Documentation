@@ -31,7 +31,7 @@ The web site shall be tested on a mobile browser or desktop browser. Users shall
 9.	Log put of the web site.
 
 
-Questionnaire: **emailed Nataliia to confirm if it is okay to use more than three questions**
+Questionnaire:
  1. How likely is it that you would recommend CHATFLIX to a friend or colleague?
 NOT AT ALL LIKELY								EXTREMELY LIKELY
 0	 1	   2	   3	   4	   5	   6	   7  	 8  	  9  	  10
@@ -104,7 +104,9 @@ QA Test Plan:
 Test Objectives:
 •	Verify functionality of discussion board feature.
 •	Validate data input.
-•	Detect functional or cosmetic defects in the web application.
+•	Detect functional defects in the web application.
+
+Note: QA environment shall [tentatively] exclude verification of CSS integration.
 
 **********************************************
 Code Review:
