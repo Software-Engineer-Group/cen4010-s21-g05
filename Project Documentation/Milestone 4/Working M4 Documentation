@@ -13,7 +13,7 @@ Product Summary:
 **********************************************
 Usability Test Plan:
 
-Usability Test Objectives:
+Test Objectives:
 •	Identify flaws with user interface such navigation and presentation errors, and discrepancies between displayed and stored data.
 •	Utilize the web site under controlled test conditions with representative users.
 •	Attain user performance and user-satisfaction metrics for future improvement.
@@ -31,7 +31,73 @@ The web site shall be tested on a mobile browser or desktop browser. Users shall
 9.	Log put of the web site.
 
 
- 
+Questionnaire:
+ 1. How likely is it that you would recommend CHATFLIX to a friend or colleague?
+NOT AT ALL LIKELY								EXTREMELY LIKELY
+0	 1	   2	   3	   4	   5	   6	   7  	 8  	  9  	  10
+
+2. Overall, how satisfied, or dissatisfied are you with CHATFLIX?
+Very satisfied
+Somewhat satisfied
+Neither satisfied nor dissatisfied
+Somewhat dissatisfied
+Very dissatisfied
+
+3. Which of the following words would you use to describe our product? Select all that apply.
+Reliable
+High quality
+Useful
+Unique
+Average
+Ineffective
+Poor quality
+Unreliable
+
+4. How effective do you think CHATFLIX would perform as a social networking site?
+Highly effective
+Moderately effective
+Somewhat effective
+Not quite effective
+Not effective whatsoever
+
+5. Can you see CHATFLIX creating a sense of connection and interaction amongst film industry fans?
+Absolutely
+Somewhat
+Not really
+
+6. How often do you think users would engage in CHATFLIX?
+Many times a day
+Few times a day
+Daily
+Sparsely throughout the week
+Weekly
+Bi-weekly
+Monthly
+Whenever a good show sparks an interest
+
+7. How would you evaluate CHATFLIX’S flow of usability and functionality? (Navigating from initial login to page interactions, to log out.)
+Highly intuitive to navigate
+Easy to navigate
+Somewhat easy to navigate
+Slightly confusing
+Difficult to navigate
+
+8. Have you visited a similar site before? 
+Yes
+Not sure
+No, it is very unique
+
+9. How would you rate the quality of the product?
+Very high quality
+High quality
+Neither high nor low quality
+Low quality
+Very low quality
+
+10. Do you have any other comments, questions, or concerns?
+
+
+
 **********************************************
 QA Test Plan:
 
