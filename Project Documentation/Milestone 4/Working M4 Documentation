@@ -121,4 +121,16 @@ Data validation:
 **********************************************
 Non-Function Requirements Checklist:
 
+The system’s home page supporting 3000 users per hour must provide a response time of 3 seconds or less.	ISSUE
+Interactions with the navigation bar should take one second or less.	ON TRACK
+Searching the catalog must take one second or less.	ON TRACK
+Searching the catalog must take one second or less.	ON TRACK
+The system must be able to process 1000 queries per minute.	ISSUE
+The system must be available 91% during the month.	ISSUE
+Latest standards and designs must be used for the system’s base architecture. Common coding styles must be used.	DONE
+The system must implement modular programming.	DONE
+The system must backup data every hour. Backup must take one minute or less.	ISSUE
+The system must use encryption to store data securely.	DONE
+Users must be logged in to see private posts and profiles.	ISSUE
+The system must support the following browsers: Chrome, Safari, Firefox	DONE
 
