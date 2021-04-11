@@ -19,8 +19,8 @@ Usability Test Objectives:
 •	Attain user performance and user-satisfaction metrics for future improvement.
 
 Test Plan:
-The web site shall be tested on a mobile browser or desktop browser. Users shall successfully complete the following tasks:
-1.	Resgister with the web site.
+The web site shall be tested on a mobile browser or desktop browser. Users shall execute the following tasks:
+1.	Register with the web site.
 2.	Log in to the website.
 3.	Navigate to the Search page.
 4.	Search the Chatflix database for the series ‘Gray’s Anatomy’.
@@ -28,7 +28,8 @@ The web site shall be tested on a mobile browser or desktop browser. Users shall
 6.	Select a posted discussion topic and read the original post.
 7.	Post a response to above discussion topic.
 8.	Post a new discussion topic.
-9.	Log out of the web site.
+9.	Log put of the web site.
+
 
  
 **********************************************
