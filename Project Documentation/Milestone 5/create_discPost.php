@@ -6,6 +6,8 @@ include("functions.php");
 include("header.php");
 $user_data = check_login($con);
 
+$gid =$_GET['gid'];
+$threadId = $_GET['threadId'];
 ?>
 
 <!DOCTYPE html>
@@ -21,17 +23,18 @@ $user_data = check_login($con);
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font CSS -->
     <link href="assets/css/boxicon.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,800" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,800" rel="stylesheet">
     <!-- Load Tempalte CSS -->
     <link rel="stylesheet" href="assets/css/templatemo.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="css/discussion.css">
-    
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 
 <body>
+
+    
 <div class="limiter">
 	<div class="redbackground" style="background-image: url('images/red.jpg');">
     <br><br>
@@ -40,10 +43,10 @@ $user_data = check_login($con);
             <div class="col-lg-12">
                 <div class="wrapper wrapper-content animated fadeInRight">
                     <div class="p-xs">
-                            <h1>Chatflix Forum</h1>
-                     </div>
+                         <h1>Chatflix Forum</h1>
+                    </div>
                 </div>
-                    <div class="forum-title">
+                <div class="forum-title">
                         <?php
                         $gid = $_GET['gid'];
                         if($gid == '1')
@@ -60,10 +63,9 @@ $user_data = check_login($con);
                         }
                         ?>
                     </div>
-
+                    
                         <div class="forum-item">
                             <div class="row">
-                            
                             <?php
                                 
                                 $gid = $_GET['gid'];
@@ -73,7 +75,7 @@ $user_data = check_login($con);
                                 $row = mysqli_fetch_assoc($res);
                                 echo "<h4>$row[threadTopic]</h4>";
                             ?>
-                            <?php
+                        <?php
                                 $gid = $_GET['gid'];
                                 $threadId = $_GET['threadId'];
                                 $sql = "SELECT * FROM discThread WHERE gid='".$gid."' AND threadId='".$threadId."' LIMIT 1";
@@ -87,56 +89,44 @@ $user_data = check_login($con);
                                         <div class='ibox-content forum-container'>
                                         <strong>Posted by</strong> $row[userName]<br><br>$row[threadContent]
                                         </div>
-                                        <div class='row'>
-                                        <div class='col'>
-                                        <br><br>
-                                        <b style='color:white;'>Replies:</b>
-                                        </div>
-                                        </div>
-
                                         ";
-                                        $sql2 = "SELECT * FROM discPost WHERE gid='".$gid."' AND threadId='".$threadId."'";
-                                        $res2 = mysqli_query($con,$sql2) or die(msqli_error($con));
-                                        while($row2 = mysqli_fetch_assoc($res2))
-                                        {
-                                            echo "
-                                            <div class='ibox-content forum-container'>
-                                            
-                                            <strong>Posted by</strong>  $row2[userName]<br><br>$row2[postCont]<br>
-                                            
-                                            </div>";
-                                        }
                                     }
                                 }
-                                else
-                                {
-                                    echo"<p>This topic does not exist</p>";
-                                }
-                                
-                            ?>
+                        ?>
+                        </div>
+                        </div>
+                    <form class="form" action="create_discPost_parse.php" method="post">
+                        <div class="row">
+                            <div class="col">
+                                <br>
+                                <b style='color:white;'>Add a Comment:</b>
+                                <input class="form-control" type="text" name="postCont" size="98" maxlength="150" required>
                             </div>
                         </div>
-                <div class="row">
-                    <div class="col d-flex justify-content-start">
-                        <a class="nav-link btn-primary rounded-pill px-3" href="/chatflix/create_discPost.php?gid=<?php echo $gid;?>&threadId=<?php echo $threadId;?>">Post a Reply</a>
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col d-flex justify-content-start">
-                        <a class="nav-link btn-primary rounded-pill px-3" href="/chatflix/view_discGenre.php?gid=<?php echo $gid;?>">Go back to Threads Page</a>
-                    </div>
-                </div>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row">
+                                    <div class="col d-flex justify-content-end">
+                                        <input type="hidden" name="gid" value="<?php echo $gid; ?>">
+                                        <input type="hidden" name="threadId" value="<?php echo $threadId; ?>">
+                                        <input class="btn btn-primary" type="submit" name="reply_submit" value="Post your reply">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
 
+
+
+
+                </div>
             </div>
-        </div>
-    </div>
-    <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <!-- Templatemo -->
-    <script src="assets/js/templatemo.js"></script>
-    <!-- Custom -->
-    <script src="assets/js/custom.js"></script>
+            <!-- Bootstrap -->
+            <script src="assets/js/bootstrap.bundle.min.js"></script>
+            <!-- Templatemo -->
+            <script src="assets/js/templatemo.js"></script>
+            <!-- Custom -->
+            <script src="assets/js/custom.js"></script>
 
 </body>
 
